@@ -1,2 +1,8 @@
 hello github
+<<<<<<< HEAD
 main branch change 
+=======
+updated file
+>>>>>>> feature1
+
+merge confilct resolved
